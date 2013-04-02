@@ -1,0 +1,21 @@
+{
+  "name": "quadkey",
+  "version": "0.0.1",
+  "description": "A simple module to convert latitude/longitude/levelOfDetail to quadkey",
+  "main": "lib/quadkey",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stumpyfr/quadkey.git"
+  },
+  "keywords": [
+    "quadkey",
+    "map",
+    "geo"
+  ],
+  "author": "Niels Freier",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}

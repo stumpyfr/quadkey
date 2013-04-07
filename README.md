@@ -10,6 +10,6 @@ A simple module to convert latitude/longitude/levelOfDetail to quadkey
 
 ##Get quadkey from latitude, longitude and levelOfDetail (between 1 and 23)
 
-    var quadkey = require('./lib/quadkey');
+    var quadkey = require('quadkey');
     
     console.log(quadkey.toQuaKey(48, 25.2, 23));

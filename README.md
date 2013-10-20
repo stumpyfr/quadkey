@@ -13,3 +13,7 @@ A simple module to convert latitude/longitude/levelOfDetail to quadkey
     var quadkey = require('quadkey');
     
     console.log(quadkey.toQuaKey(48, 25.2, 23));
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stumpyfr/quadkey/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
